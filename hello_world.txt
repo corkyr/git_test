@@ -1,1 +1,2 @@
-Hello Odin's World!
+Hello Odin's World!ing
+Testing the core editor setting
